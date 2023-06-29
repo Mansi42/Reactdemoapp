@@ -1,0 +1,34 @@
+#responsive-navbar-nav a {
+  text-decoration: none;
+}
+#responsive-navbar-nav a.active {
+  color: white;
+}
+.form-group {
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  border: 10px black;
+}
+.form {
+  border: 4px solid black;
+  margin: 40px 520px 40px 520px;
+
+  padding: 20px;
+}
+#emailField {
+  width: 250px;
+}
+#verifybtn {
+  width: 250px;
+}
+h6 {
+  text-align: center;
+  color: rgb(77, 73, 73);
+  padding-right: 70px;
+}
+.otpClass {
+  border: 4px solid black;
+  margin: 40px 520px 40px 520px;
+  padding: 40px;
+  padding-left: 200px;
+}
